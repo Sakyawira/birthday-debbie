@@ -13,8 +13,8 @@ import felisImg from './assets/images/felice.jpg'
 
 function App() {
   const highlights = [
-    '🌅 Your energy outshines even the New Zealand sunrise.',
-    '✈️ Miles apart, but always close in our hearts.',
+    '🌅 Your energy outshines even the Bali sunrise.',
+    '✈️ 7,500 km apart, but always near in our hearts.',
     '🎂 Another year of being the best friend anyone could ask for.',
   ]
 
@@ -76,7 +76,7 @@ function App() {
         <p className="eyebrow">From all of us who love you</p>
         <h1>Happy Birthday, Debbie!</h1>
         <p className="lead">
-          A little corner of love for you, all the way from home to New Zealand.
+          A little corner of love for you, all the way from home.
         </p>
 
         <div className="highlights" role="list" aria-label="Birthday wishes">
